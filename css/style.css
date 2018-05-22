@@ -1,0 +1,22 @@
+.navbar-header {
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    border-radius: 10px;
+    font-size: 2em;
+    margin: 2% 0 2% 0;
+}
+
+.fa-shopping-basket, .navbar-brand {
+    color: #5bdb48;
+    font-size: 30px;
+    margin: 0 20px 0 20px;
+}
+
+.edit-button {
+    margin-right: 20px;
+}
+
+.list {
+    margin-bottom: 2%;
+}
